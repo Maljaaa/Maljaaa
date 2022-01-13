@@ -1,43 +1,36 @@
-### 👋 Nice to See U!    
+<div align="center">
+<br><br><br>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=%2336BCF7&size=35&center=true&vCenter=true&width=404&height=53&lines=Hi+there%2C+I'm+Seungmin)](https://git.io/typing-svg)
 
-안녕하세요 **BackEnd 개발**에 관심을 갖고 있는 🐣 초보 개발자 입니다.                                  
-기초 프로그래밍과 최신 트렌드를 기반으로 저에게 맞는 도구를 찾아가는 중이며 **여러 프로젝트를 통해 성장중**에 있습니다.                    
-**☕ JAVA 및 Kotlin**을 기반으로 공부를 하고 있습니다.              
+<br><br><br>
+
+<!-- devpla's profile -->
  
-[📝 Resume]   
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maljaaa&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=49.2% />
+</a>
+<a href="https://github.com/devpla/github-stats">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maljaaa&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)" width=49.2% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://activity-graph.herokuapp.com/graph?username=Maljaaa&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
+</a>
 
 
-### 💻 Activity 
-<details>
-<summary>👨‍💻 2022</summary>
-<div markdown="1"> 
-            <ul>
-               <li>Web Project -ing</li>
-            </ul>
-</div>
-</details>
+<br><br><br>
 
-<details>
-<summary>📹 Youtube</summary>
-<div markdown="1"> 
-            <ul>
-                <li><a href="https://www.youtube.com/user/todwn/search?query=%EC%8A%B9%EB%AF%BC%EA%B7%B8%EB%A6%B4%EC%8A%A4">xxx에서 살아남기 | 【승민그릴스】 #shorts</a></li>
-            </ul>
-</div>
-</details>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevpla&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
 
-
-### 🏃‍♂️ Make Careers 
-* Acitivity - intern : Solution Team in Sunjin[2022.01 ~ 2022.02]   
-* group - Language Science Laboratory(LSL)[2021.09 ~ ]     
-* group - Embeded System Laboratory(ESL)[2018.03 ~ 2019.02]     
-* study - [📝 Kotlin] Contact me!
-* study - [📝 JAVA] Contact me!
-
-
-### ⌨️ Tech Stack
-![trophy](https://github-profile-trophy.vercel.app/?username=Maljaaa)
-
-![Maljaaa](https://github-readme-stats.vercel.app/api?username=Maljaaa&show_icons=true)
-[![Maljaaa](https://github-readme-stats.vercel.app/api/top-langs/?username=Maljaaa&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Maljaaa)
+<!--
+**devpla/devpla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+  -->
