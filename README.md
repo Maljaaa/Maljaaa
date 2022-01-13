@@ -1,26 +1,26 @@
 <div align="center">
 <br><br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=%2336BCF7&size=35&center=true&vCenter=true&width=404&height=53&lines=Hi+there%2C+I'm+Seungmin)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=%2300A900&size=35&center=true&vCenter=true&width=404&height=53&lines=Hi+there%2C+I'm+Seungmin)](https://git.io/typing-svg)
+ 
 <br><br><br>
 
 <!-- devpla's profile -->
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maljaaa&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=49.2% />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maljaaa&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=00A900" width=49.2% />
 </a>
 <a href="https://github.com/devpla/github-stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maljaaa&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)" width=49.2% />
-</a>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maljaaa&show_icons=true&hide_border=true&bg_color=20232a&text_color=fff&title_color=00A900&icon_color=E3E3E3A8&layout=compact" width=48.7% />
+</a> 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=Maljaaa&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
+<img src="https://activity-graph.herokuapp.com/graph?username=Maljaaa&theme=react-dark&bg_color=20232a&hide_border=true&line=00A900&color=00A900" width=98%/>
 </a>
 
 
 <br><br><br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevpla&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMaljaaa&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
 
 <!--
 **devpla/devpla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
