@@ -27,6 +27,7 @@
 </div>
 </details>
 
+
 ### 🏃‍♂️ Make Careers 
 * Acitivity - intern : Solution Team in Sunjin[2022.01 ~ 2022.02]   
 * group - Language Science Laboratory(LSL)[2021.09 ~ ]     
@@ -34,6 +35,8 @@
 * study - [📝 Kotlin] Contact me!
 * study - [📝 JAVA] Contact me!
 
+
+### ⌨️ Tech Stack
 ![trophy](https://github-profile-trophy.vercel.app/?username=Maljaaa)
 
 ![Maljaaa](https://github-readme-stats.vercel.app/api?username=Maljaaa&show_icons=true)
