@@ -13,6 +13,3 @@
 <a href="https://github.com/devpla/github-stats">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maljaaa&show_icons=true&hide_border=true&bg_color=20232a&text_color=fff&title_color=00A900&icon_color=E3E3E3A8&layout=compact" width=48.7% />
 </a> 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=Maljaaa&theme=react-dark&bg_color=20232a&hide_border=true&line=00A900&color=00A900" width=98%/>
-</a>
