@@ -14,6 +14,7 @@
   <ul>
    <li><a href="https://www.inflearn.com/certificate/475947-324109-11998824">김영한, 자바 ORM 표준 JPA 프로그래밍 - 기본편</a></li>
   </ul>
+ </div>
 </details>
 
 <!-- Seungmin's profile -->
