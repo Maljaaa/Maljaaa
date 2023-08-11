@@ -5,11 +5,21 @@
  
 <br><br><br>
 
+
+
+## 💻 Activity 
+<details>
+ <summary>👨‍💻 2023</summary>
+ <div markdown="1">
+  <ul>
+   <li><a href=https://www.inflearn.com/certificate/475947-324109-11998824>김영한, 자바 ORM 표준 JPA 프로그래밍 - 기본편</li>
+  </ul>
+</details>
+
 <!-- Seungmin's profile -->
  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maljaaa&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=00A900" width=49.2% />
-</a>
-<a href="https://github.com/devpla/github-stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maljaaa&show_icons=true&hide_border=true&bg_color=20232a&text_color=fff&title_color=00A900&icon_color=E3E3E3A8&layout=compact" width=48.7% />
+![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=Maljaaa&show_icons=true)
+[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Maljaaa&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Maljaaa)
 </a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Maljaaa)](https://github.com/ryo-ma/github-profile-trophy)
