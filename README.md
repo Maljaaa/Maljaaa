@@ -14,6 +14,7 @@
   <ul>
    <li><a href="https://www.inflearn.com/certificate/475947-324109-11998824">김영한, 자바 ORM 표준 JPA 프로그래밍 - 기본편</a></li>
    <li><a href="https://www.inflearn.com/certificate/475947-324119-12060124">김영한, 실전! 스프링 부트와 JPA와 활용1 - 웹 애플리케이션 개발</a></li>
+   <li><a href="https://www.inflearn.com/certificate/475947-324214-12138860">김영한, 실전! 스프링 부트와 JPA와 활용2 - API 개발과 성능 최적화</a></li>
   </ul>
  </div>
 </details>
