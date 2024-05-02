@@ -1,20 +1,31 @@
 <div align="center">
-<br><br><br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=%2300A900&size=35&center=true&vCenter=true&width=404&height=53&lines=Hi+there%2C+I'm+Seungmin)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=58A6FF&size=35&center=true&vCenter=true&width=404&height=53&lines=Hi+there%2C+I'm+Seungmin)](https://git.io/typing-svg)
  
-<br><br><br>
-
-
-
-## 💻 Activity 
 <details>
- <summary>👨‍💻 2023</summary>
+ <summary>내가 관심 있는 기술은...</summary>
  <div markdown="1">
   <ul>
-   <li><a href="https://www.inflearn.com/certificate/475947-324109-11998824">김영한, 자바 ORM 표준 JPA 프로그래밍 - 기본편</a></li>
-   <li><a href="https://www.inflearn.com/certificate/475947-324119-12060124">김영한, 실전! 스프링 부트와 JPA와 활용1 - 웹 애플리케이션 개발</a></li>
-   <li><a href="https://www.inflearn.com/certificate/475947-324214-12138860">김영한, 실전! 스프링 부트와 JPA와 활용2 - API 개발과 성능 최적화</a></li>
+   
+  </ul>
+ </div>
+</details>
+
+<details>
+ <summary>내가 공부하고 있는 기술은...</summary>
+ <div markdown="1">
+  <ul>
+   
+  </ul>
+ </div>
+</details>
+
+<details>
+ <summary>나랑 연락하고 싶다면...?</summary>
+ <div markdown="1">
+  <ul>
+   
   </ul>
  </div>
 </details>
@@ -26,3 +37,5 @@
 </a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Maljaaa)](https://github.com/ryo-ma/github-profile-trophy)
+  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
