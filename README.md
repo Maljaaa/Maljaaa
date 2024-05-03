@@ -4,28 +4,42 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=58A6FF&size=35&center=true&vCenter=true&width=404&height=53&lines=Hi+there%2C+I'm+Seungmin)](https://git.io/typing-svg)
  
 <details>
- <summary>내가 관심 있는 기술은...</summary>
+ <summary>내가 관심 있는 것은...</summary>
  <div markdown="1">
   <ul>
-   
+    <li>Spring Boot</li>
+    <li>
+    <li>Spring Data JPA</li>
+    <li>QueryDSL</li>
+    <li>Docker</li>
+    <li>AWS</li>
+    <li>MySQL</li>
+    <li>PostgreSQL</li>
+    <li>MongoDB</li>
+    <li>Prometheus</li>
+    <li>Grafana</li>
   </ul>
  </div>
 </details>
 
 <details>
- <summary>내가 공부하고 있는 기술은...</summary>
+ <summary>내가 현재 공부하고 있는 것은...</summary>
  <div markdown="1">
   <ul>
-   
+    <li>QueryDSL</li>
+    <li>PostgreSQL</li>
+    <li>Docker</li>
   </ul>
  </div>
 </details>
 
 <details>
- <summary>나랑 연락하고 싶다면...?</summary>
+ <summary>나랑 연락하고 싶다면...?!</summary>
  <div markdown="1">
   <ul>
-   
+   <li>email : seungmin4452@gmail.com</li>
+   <li>instagram : @segmn</li>
+   <li>kakaoTalk : segmn</li>
   </ul>
  </div>
 </details>
