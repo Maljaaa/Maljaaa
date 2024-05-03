@@ -8,16 +8,11 @@
  <div markdown="1">
   <ul>
     <li>Spring Boot</li>
-    <li>
-    <li>Spring Data JPA</li>
-    <li>QueryDSL</li>
-    <li>Docker</li>
-    <li>AWS</li>
-    <li>MySQL</li>
-    <li>PostgreSQL</li>
-    <li>MongoDB</li>
-    <li>Prometheus</li>
-    <li>Grafana</li>
+    <li>Java, Javascript</li>
+    <li>Spring Data JPA, QueryDSL</li>    
+    <li>Docker, AWS</li>    
+    <li>MySQL, PostgreSQL, MongoDB</li>        
+    <li>Prometheus, Grafana</li>
   </ul>
  </div>
 </details>
