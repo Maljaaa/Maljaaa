@@ -7,10 +7,10 @@
  <summary>내가 관심 있는 것은...</summary>
  <div markdown="1">
   <ul>
-    <li>Spring Boot</li>
+    <li>Spring Boot, Spring</li>
     <li>Java, Javascript</li>
     <li>Spring Data JPA, QueryDSL</li>    
-    <li>Docker, AWS</li>    
+    <li>Docker, Kubernetes, AWS</li>    
     <li>MySQL, PostgreSQL, MongoDB</li>        
     <li>Prometheus, Grafana</li>
   </ul>
