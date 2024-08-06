@@ -13,6 +13,7 @@
     <li>Docker, Kubernetes, AWS(S3, EC2, RDS)</li>    
     <li>MySQL, PostgreSQL, MongoDB</li>        
     <li>Prometheus, Grafana</li>
+    <li>Clean Code</li>
   </ul>
  </div>
 </details>
@@ -22,7 +23,7 @@
  <div markdown="1">
   <ul>
     <li>QueryDSL</li>
-    <li>PostgreSQL</li>
+    <li>Python Web Crawling</li>
     <li>Docker, AWS(S3, EC2, RDS)</li>
   </ul>
  </div>
