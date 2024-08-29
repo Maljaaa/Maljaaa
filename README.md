@@ -9,7 +9,7 @@
   <ul>
     <li>Spring Boot, Spring</li>
     <li>Java, Javascript</li>
-    <li>Spring Data JPA, QueryDSL</li>    
+    <li>Spring Data JPA, QueryDSL, JOOQ</li>    
     <li>Docker, Kubernetes, AWS(S3, EC2, RDS)</li>    
     <li>MySQL, PostgreSQL, MongoDB</li>        
     <li>Prometheus, Grafana</li>
@@ -24,7 +24,7 @@
   <ul>
     <li>QueryDSL</li>
     <li>Python Web Crawling</li>
-    <li>Docker, AWS(S3, EC2, RDS)</li>
+    <li>Clean Code</li>
   </ul>
  </div>
 </details>
